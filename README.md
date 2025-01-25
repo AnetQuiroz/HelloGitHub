@@ -2,9 +2,9 @@
 
 ### THIS IS THE FIRST LINE
 
-| Header | Description |
+| Language | Developer |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| C++ | Anet Flores |
+| phyton | Sofia Sarmiento |
 
     ![Alt text](https://res.cloudinary.com/demo/image/upload/w_300/sample.jpg)
